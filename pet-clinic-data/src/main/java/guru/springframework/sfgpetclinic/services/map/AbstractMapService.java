@@ -1,7 +1,5 @@
 package guru.springframework.sfgpetclinic.services.map;
 
-import lombok.val;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
